@@ -12,11 +12,11 @@ def menu():
 ....##.....#######...#######..########..######...######.
 ........................................................
 ........................................................
-.HH....HH...AAAAA...CCCCCCCC..IIIIII...NN....NN..SSSSSSS.
-.HH....HH..A.....A..CC..........II.....NN.N..NN..SS......
-.HHHHHHHH..AAAAAAA..CC..........II.....NN..NNNN...SSSSSS.
-.HH....HH..AA...AA..CC..........II.....NN...NNN.......SS.
-.HH....HH..AA...AA..CCCCCCCC..IIIIII...NN....NN...NNNNNN.
+.HH....HH...AAAAA...CCCCCCCC.kk..kk..IIIIII.....NN....NN..SSSSSSS.
+.HH....HH..A.....A..CC.......kk.kk.....II.......NN.N..NN..SS......
+.HHHHHHHH..AAAAAAA..CC.......kkkk......II.......NN..NNNN...SSSSSS.
+.HH....HH..AA...AA..CC.......kk..kk....II.......NN...NNN.......SS.
+.HH....HH..AA...AA..CCCCCCCC.kk...kk.IIIIII.....NN....NN...NNNNNN.
 ========================================
 Created By HACKINS
 Channel: youtube/OMARBOUDIBA
