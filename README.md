@@ -17,8 +17,8 @@ pkg install python2
 ```
 git clone https://github.com/omarboudiba/hackinstools.git
 cd hackinstools
-chmod +x Tools.py
-python2 Tools.py
+chmod +x Toolss.py
+python2 Toolss.py
 ```
 
 YouTube Channel: https://www.youtube.com/OMARBOUDIBA
