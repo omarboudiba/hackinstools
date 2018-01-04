@@ -25,6 +25,6 @@ YouTube Channel: https://www.youtube.com/OMARBOUDIBA
 
 Facebook: https://www.facebook.com/omarboudiba6
 
-grops : https://web.facebook.com/groups/DIYHackingAndroid/
+groups : https://web.facebook.com/groups/DIYHackingAndroid/
 
 -
