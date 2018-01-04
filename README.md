@@ -1,33 +1,31 @@
 # hackinstools
-الشرح :
-# اولا
-```
-نزل تطبيق
-termux 
-في بلاي ستور
-```
-# ثانيا
-```
-ادخل و قم بتثبيت هذه بالترتيب
+Dowland <h1>termux</h1> in google play 
+and open the apps
+and type this
+
+# Installation 1
+-------------------------------
 pkg install  python
-ثم
+
 pkg install  git
-ثم
+
 pkg install python2
 ```
-# و اخيرا
+# Installation 2
 ```
-git clone https://github.com/omarboudiba/hackinstools.git
-ثم
+git clone https://goo.gl/P2FdiH
+
 cd hackinstools
-ثم
+
 chmod +x Toolss.py
-ثم 
+ 
 python2 Toolss.py
 ```
-# مبروووووك
 YouTube Channel: https://www.youtube.com/OMARBOUDIBA
 
 
 Facebook: https://www.facebook.com/omarboudiba6
 
+grops : https://web.facebook.com/groups/DIYHackingAndroid/
+
+-
