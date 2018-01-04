@@ -10,9 +10,9 @@ pkg install  python
 pkg install  git
 
 pkg install python2
-```
+-------------------------------
 # Installation 2
-```
+-------------------------------
 git clone https://goo.gl/P2FdiH
 
 cd hackinstools
@@ -20,7 +20,7 @@ cd hackinstools
 chmod +x Toolss.py
  
 python2 Toolss.py
-```
+-------------------------------
 YouTube Channel: https://www.youtube.com/OMARBOUDIBA
 
 
